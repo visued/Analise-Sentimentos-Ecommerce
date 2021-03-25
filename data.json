@@ -1,0 +1,206 @@
+[
+  {
+    "data": {
+      "objects": [
+        {
+          "customer_name": "Newton Furia",
+          "date": "2018-09-14T22:16:24+00:00",
+          "delta": "Há 2 anos atrás",
+          "dislikes": 0,
+          "evaluation_characteristics": [
+            { "name": "Design", "value": 2 },
+            { "name": "Custo-benefício", "value": 5 },
+            { "name": "Desempenho", "value": 4 },
+            { "name": "Recursos", "value": 4 },
+            { "name": "Facilidade de uso", "value": 4 },
+            { "name": "Qualidade geral", "value": 4 }
+          ],
+          "id": "210856701",
+          "is_recommended": True,
+          "likes": 0,
+          "location": "SAO PAULO",
+          "rating": 4,
+          "relevance": None,
+          "review_text": "O produto é bom, tem potência adequada e é bem acabado. Mas o  sistema de encaixe das chaminés não é bem planejado. \r\nPara o encaixe da chaminé inferior  no corpo da coifa há só um pequeno rebaixo e uma peça plástica que fica no canto deste rebaixo dificulta o encaixe. Fora isso, qualquer pequeno desnível do corpo da coifa deixa uma fresta entre a chaminé e o corpo. E este desnível é fácil de ocorrer pois os furos no corpo da coifa estão em uma posição tal que faz a frente da coifa se inclinar levemente para frente.",
+          "title": "Bom produto, sistema de montagem falho",
+          "total_opinions": 0
+        },
+        {
+          "customer_name": "erica goncalves oliveira",
+          "date": "2018-03-25T22:53:28+00:00",
+          "delta": "Há 2 anos atrás",
+          "dislikes": 0,
+          "evaluation_characteristics": [],
+          "id": "205431911",
+          "is_recommended": True,
+          "likes": 0,
+          "location": "TAPERA",
+          "rating": 4,
+          "relevance": None,
+          "review_text": "Gostei muito do produto , entrega rápida , muito bem embalado",
+          "title": "Ótimo",
+          "total_opinions": 0
+        },
+        {
+          "customer_name": "rodrigo romualdo gomes da",
+          "date": "2018-03-05T20:12:18+00:00",
+          "delta": "Há 3 anos atrás",
+          "dislikes": 0,
+          "evaluation_characteristics": [
+            { "name": "Custo-benefício", "value": 5 },
+            { "name": "Qualidade geral", "value": 4 }
+          ],
+          "id": "204438905",
+          "is_recommended": True,
+          "likes": 0,
+          "location": "RIO DE JANEIRO",
+          "rating": 5,
+          "relevance": None,
+          "review_text": "Além de bonito é um boa cumpre o que promete, é um boa para quem tem fugão de 6 bocas. Recomendo",
+          "title": "Muito bom",
+          "total_opinions": 0
+        },
+        {
+          "customer_name": "Eliane",
+          "date": "2017-08-02T02:50:59+00:00",
+          "delta": "Há 3 anos atrás",
+          "dislikes": 0,
+          "evaluation_characteristics": [
+            { "name": "Design", "value": 5 },
+            { "name": "Custo-benefício", "value": 5 },
+            { "name": "Desempenho", "value": 5 },
+            { "name": "Recursos", "value": 5 },
+            { "name": "Facilidade de uso", "value": 5 },
+            { "name": "Qualidade geral", "value": 4 }
+          ],
+          "id": "191187949",
+          "is_recommended": True,
+          "likes": 0,
+          "location": "Santa Luzia,MG.",
+          "rating": 4,
+          "relevance": None,
+          "review_text": "Atendimento, Produto e Entrega tudo conforme anunciado.",
+          "title": "otimo",
+          "total_opinions": 0
+        },
+        {
+          "customer_name": "Ney i z",
+          "date": "2017-02-26T14:17:25+00:00",
+          "delta": "Há 4 anos atrás",
+          "dislikes": 0,
+          "evaluation_characteristics": [
+            { "name": "Design", "value": 3 },
+            { "name": "Custo-benefício", "value": 4 },
+            { "name": "Desempenho", "value": 4 },
+            { "name": "Recursos", "value": 4 },
+            { "name": "Facilidade de uso", "value": 4 },
+            { "name": "Qualidade geral", "value": 4 }
+          ],
+          "id": "177268278",
+          "is_recommended": True,
+          "likes": 0,
+          "location": "Juiz de Fora - MG, Brasil",
+          "rating": 4,
+          "relevance": None,
+          "review_text": "Funciona bem na função exaustor (não experimentei como depurador).\r\nFaz muito barulho e infelizmente não acompanha nenhum centímetro de duto para saída de ar.",
+          "title": "Eficiente",
+          "total_opinions": 0
+        },
+        {
+          "customer_name": "CRISTIANO NAVARRO",
+          "date": "2016-10-01T22:37:01+00:00",
+          "delta": "Há 4 anos atrás",
+          "dislikes": 0,
+          "evaluation_characteristics": [
+            { "name": "Design", "value": 5 },
+            { "name": "Custo-benefício", "value": 5 },
+            { "name": "Desempenho", "value": 5 },
+            { "name": "Recursos", "value": 5 },
+            { "name": "Facilidade de uso", "value": 5 },
+            { "name": "Qualidade geral", "value": 5 }
+          ],
+          "id": "165530875",
+          "is_recommended": True,
+          "likes": 0,
+          "location": "Cuiabá - MT, Brasil",
+          "rating": 5,
+          "relevance": None,
+          "review_text": "ÓTIMA COIFA, EXELENTE CUSTO BENEFÍCIO E UM ACABAMENTO DE PRIMEIRA!!!!",
+          "title": "EFICIENTE!!!",
+          "total_opinions": 0
+        },
+        {
+          "customer_name": "jeronimo",
+          "date": "2016-09-21T18:55:34+00:00",
+          "delta": "Há 4 anos atrás",
+          "dislikes": 0,
+          "evaluation_characteristics": [
+            { "name": "Design", "value": 4 },
+            { "name": "Custo-benefício", "value": 4 },
+            { "name": "Desempenho", "value": 4 },
+            { "name": "Recursos", "value": 4 },
+            { "name": "Facilidade de uso", "value": 5 },
+            { "name": "Qualidade geral", "value": 4 }
+          ],
+          "id": "164947370",
+          "is_recommended": True,
+          "likes": 0,
+          "location": "Belo Horizonte - MG, Brasil",
+          "rating": 4,
+          "relevance": None,
+          "review_text": "bom ainda nao usei direito pois so in stalei ontem  mas a principio gostei",
+          "title": "bom",
+          "total_opinions": 0
+        },
+        {
+          "customer_name": "Slui",
+          "date": "2016-08-03T00:55:14+00:00",
+          "delta": "Há 4 anos atrás",
+          "dislikes": 0,
+          "evaluation_characteristics": [
+            { "name": "Design", "value": 5 },
+            { "name": "Custo-benefício", "value": 3 },
+            { "name": "Desempenho", "value": 3 },
+            { "name": "Recursos", "value": 4 },
+            { "name": "Facilidade de uso", "value": 5 },
+            { "name": "Qualidade geral", "value": 2 }
+          ],
+          "id": "157975648",
+          "is_recommended": False,
+          "likes": 0,
+          "location": "São Bernardo do Campo - SP, Brasil",
+          "rating": 2,
+          "relevance": None,
+          "review_text": "Barulhento , na função purificador de ar não é suficiente .",
+          "title": "Mais ou menos",
+          "total_opinions": 0
+        }
+      ],
+      "pages": 2,
+      "ratings": {
+        "average_rating": 4.055555555555555,
+        "characteristics": [
+          {
+            "average": 4.117647058823529,
+            "id": "QualidadeGeral",
+            "name": "Qualidade geral"
+          },
+          {
+            "average": 4.352941176470588,
+            "id": "Value",
+            "name": "Custo-benefício"
+          },
+          { "average": 4.25, "id": "Design2", "name": "Design" },
+          {
+            "average": 4.6875,
+            "id": "Facilidadedeuso",
+            "name": "Facilidade de uso"
+          },
+          { "average": 4.1875, "id": "Desempenho", "name": "Desempenho" },
+          { "average": 4.0625, "id": "Recursos", "name": "Recursos" }
+        ],
+        "total_review_count": 18
+      }
+    }
+  }
+]
